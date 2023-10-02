@@ -244,10 +244,11 @@ div {
     align-items: center;
 }
 
+
 .about-content p {
     color: var(--c2);
     font-family: var(--font);
-    font-size: 15px;
+    font-size: 18px;
     text-transform: none;
     text-align: left;
 }
