@@ -4,6 +4,7 @@
     --secondary: #777777;
     --light: #F8F8F8;
     --dark: #252525;
+    overflow-x: hidden;
 }
 
 .back-to-top {
