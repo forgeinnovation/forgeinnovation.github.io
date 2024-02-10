@@ -67,6 +67,10 @@
 .--s6{
     background-image: url(../sites/animespetra/assets/images/banner-bg.png);
 }
+.--s7{
+    background-image: url(../sites/mankindfoundation/img/courses-2.jpg);
+    object-fit: contain;
+}
 .thumbnail__overlay {
     position: relative;
     padding-top: 8em;
